@@ -8,7 +8,7 @@ Visit [Abstract](https://app.goabstract.com/projects/4fe06580-412d-11e8-8df7-575
 To learn more about what Kin does, visit my [website](https://www.davidnhuang.com/project/kin/)
 
 ## Project Detail
-###### Designers: David Huang, Vincent Zhang, Kristy Lee, Yuni Choi
+###### Original designers: David Huang, Vincent Zhang, Kristy Lee, Yuni Choi
 ###### Updated Kin Designer: David Huang
 ###### Developer: David Huang.
 ###### Project start date: August 28th 2017.
